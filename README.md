@@ -16,10 +16,12 @@
 
 ## 使用技術
 - フロント
-  - HTML, CSS, BootStrap, JavaScript
+  - HTML, BootStrap, JavaScript
+- バックエンド
+  - PHP
 - インフラ
   - AWS
   - nginx
 
 ## URL
-[https://uml-practice.yoshm.com/](https://mdtohtml.yoshm.com/)
+https://mdtohtml.yoshm.com/
